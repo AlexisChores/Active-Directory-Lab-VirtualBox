@@ -29,5 +29,5 @@ It simulates a small company network with users, groups, file shares, NTFS permi
 ---
 
   Domain Structure
-Domain name: **flexx.local**
+Domain name: **mydomain.local**
 
