@@ -1,7 +1,7 @@
 #  Active Directory Lab (Windows Server 2022 + VirtualBox)
 
 This project demonstrates a full **Active Directory environment** built from scratch using **VirtualBox**, **Windows Server 2022**, and **Windows 10**.  
-It simulates a small company network with users, groups, file shares, NTFS permissions, and Group Policies — exactly what an IT Support or Help Desk role would manage.
+It simulates a small company network with users, groups, file shares, NTFS permissions, and Group Policies 
 
 ---
 
